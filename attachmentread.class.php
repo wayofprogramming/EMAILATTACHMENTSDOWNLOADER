@@ -1,15 +1,5 @@
 <?php
-error_reporting(E_ALL ^ E_NOTICE ^ E_WARNING);
-			######################################
-			
-			#Coded By Jijo Last Update Date[Jan/19/06]
-			
-			#####################################
-
-	
-
-			
-			##########################################################			
+error_reporting(E_ALL ^ E_NOTICE ^ E_WARNING);		
 
 
 			###################### Class readattachment ###############
